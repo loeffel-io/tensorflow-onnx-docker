@@ -1,0 +1,7 @@
+ls:
+  .dir: snake_case
+  .py: snake_case
+
+ignore:
+  - .git
+  - .idea
